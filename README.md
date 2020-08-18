@@ -1,2 +1,2 @@
-# Python-Algorithms-and-Data-Structures
-Algorithms and Data Structures
+# Python-Algorithms-and-Data-Structures(Strings)
+Strings
